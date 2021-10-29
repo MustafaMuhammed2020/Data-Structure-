@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1634489010 source:c:\users\click\desktop\data structure && algorithms\05 - modify stack elements\element modification\main.cpp
+	"Stack.h"
+
+1634506751 c:\users\click\desktop\data structure && algorithms\05 - modify stack elements\element modification\include\stack.h
+	<iostream>
+	<stdlib.h>
+

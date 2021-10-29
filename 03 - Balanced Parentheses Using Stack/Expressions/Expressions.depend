@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1633814290 source:c:\users\click\desktop\data structure && algorithms\03 - balanced parentheses\expressions\main.cpp
+	<iostream>
+	"Stack.h"
+
+1633813207 c:\users\click\desktop\data structure && algorithms\03 - balanced parentheses\expressions\stack.h
+	<iostream>
+	<stdlib.h>
+

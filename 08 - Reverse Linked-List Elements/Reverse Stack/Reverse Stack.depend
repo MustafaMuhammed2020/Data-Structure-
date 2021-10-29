@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1634949070 source:c:\users\click\desktop\data structure && algorithms\08 - reverse linked-list elements\reverse stack\main.cpp
+	"Stack.h"
+
+1634949293 c:\users\click\desktop\data structure && algorithms\08 - reverse linked-list elements\reverse stack\stack.h
+	<iostream>
+	<stdlib.h>
+

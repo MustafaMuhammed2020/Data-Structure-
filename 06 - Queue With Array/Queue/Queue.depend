@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1634238709 source:c:\users\click\desktop\data structure && algorithms\06 - queue with array\queue\main.cpp
+	"Queue.h"
+
+1634242897 c:\users\click\desktop\data structure && algorithms\06 - queue with array\queue\include\queue.h
+	<iostream>
+
